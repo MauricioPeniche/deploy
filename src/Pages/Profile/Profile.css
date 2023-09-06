@@ -1,0 +1,66 @@
+.body-Profile {
+  background-image: url("../../Img/console.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height:100%;
+}
+
+.Principal-Container {
+  background-color: rgb(255, 255, 255, 0.4);
+  backdrop-filter: blur(10px);
+  border: 0px;
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 21vh;
+}
+
+.Principal-Container-2 {
+  background-color: rgb(255, 255, 255, 0.4);
+  backdrop-filter: blur(10px);
+  border: 0px;
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10vh;
+  
+}
+
+.Principal-Container-3 {
+  background-color: rgb(255, 255, 255, 0.4);
+  backdrop-filter: blur(10px);
+  height: 50px;
+  border: 0px;
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 2vh;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  
+  
+}
+
+.img-box-profile {
+  margin-top: 5vh;
+}
+.button-container {
+  display: flex;
+  gap: 10px;
+}
+
+.text-profile{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.feed-box{
+  column-count: 2; /* Divide en dos columnas */
+  margin-top: 5vh;
+}
